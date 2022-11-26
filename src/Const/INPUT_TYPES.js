@@ -1,0 +1,9 @@
+export const TEXT = 'text';
+export const FILE = 'file';
+export const EMAIL = 'email';
+export const PASSWORD = 'password';
+export const DATE = 'date';
+export const DATE_PICKER = 'DATE_PICKER';
+export const SELECT = 'SELECT';
+export const SEARCHABLE_SELECT = 'SEARCHABLE_SELECT';
+export const TEXT_AREA = 'TEXT_AREA';
